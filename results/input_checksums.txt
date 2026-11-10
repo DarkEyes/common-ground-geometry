@@ -1,0 +1,6 @@
+5498b156aed2f825  term.txt
+10f1d38ebf8f1c07  foci-exp.txt
+82864ac378e051b6  cnum-vhcm-lab-new.txt
+1b2d034166e2ea38  dict.txt
+6c48ebb6c15e9c1e  spkr-lsas.txt
+50dc1887038e8046  colorsurvey.tar.gz

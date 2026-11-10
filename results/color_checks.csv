@@ -1,0 +1,3 @@
+check,n,mean_dE,max_dE
+archive Illuminant-C values vs the colour-science package's Munsell renotation,320,0.717933876413,1.23474578362
+"shift from Illuminant C to D65 (Bradford), all 330 chips",330,0.998576579138,2.45617981401

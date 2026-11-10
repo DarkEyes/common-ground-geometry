@@ -1,0 +1,7 @@
+lang 87 speakers 21 terms 5
+speaker 1 (k=15): kappa_hat 1.60 accuracy 0.81
+speaker 2 (k=9): kappa_hat 7.48 accuracy 0.76
+chips where speakers 1 and 2 disagree: 54 of 330
+model common ground of all speakers: 159 chips
+empirical common ground of all speakers: 35 chips
+empirical common ground inside model common ground: 33

@@ -1,0 +1,7 @@
+kappa_max 7.62 q 0.966
+('C', 0, 0, 17, 1, True, True)
+('I', 0, 0, 34, 17, True, True)
+('O', 0, 2, 30, 0, True, True)
+('R', 0, 0, 30, 0, True, True)
+('S', 0, 7, 48, 17, True, True)
+totals [0, 9, 159, 35]
