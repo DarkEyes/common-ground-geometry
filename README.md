@@ -9,7 +9,7 @@
    - figures: `paper_figures/`, with the file names that `main.tex` includes;
    - numbers: `results/paper_numbers.md`, grouped by the section of the paper that reports them.
 
-On Google Colab, open `SoCG_color.ipynb`, upload this zip in the first cell, and run the cells in order.
+On Google Colab, open `SoCG_color.ipynb`, upload the zip of this package in the first cell, and run the cells in order.
 
 No paths need editing. Every script finds its files relative to this folder. To use data stored elsewhere, set `CG_WCS_DIR` and `CG_XKCD_DB`.
 
